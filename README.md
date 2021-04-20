@@ -13,6 +13,7 @@ STRENGTH:
     1. EASY
     2. MEDIUM
     3. HARD
-   Author:
+  
+  Author:
    
-         SHIRSHAKK PURKAYASTHA
+      SHIRSHAKK PURKAYASTHA
