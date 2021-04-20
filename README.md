@@ -4,6 +4,12 @@
 
 
     A python based GUI-application that generates Random Passwords of length 9-24 characters!
+    
+DEPENDENCIES:
+
+      python-3.0
+      tkinter gui utility
+
 
 STRENGTH:
   
